@@ -1,0 +1,31 @@
+{
+  "iConnApp": {
+    "application": {
+      "home": {
+        "title": "Applications",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Application",
+        "createOrEditLabel": "Genera o modifica un Application",
+        "notFound": "No Applications found"
+      },
+      "created": "&Egrave; stato generato un nuovo Application con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Application identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Application con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Application {{ id }}?"
+      },
+      "detail": {
+        "title": "Application"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "wikiUrl": "Wiki Url",
+      "logoImage": "Logo Image",
+      "createdAt": "Created At",
+      "modifiedAt": "Modified At",
+      "user": "User",
+      "tech": "Tech"
+    }
+  }
+}

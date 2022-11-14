@@ -1,0 +1,30 @@
+{
+  "iConnApp": {
+    "tech": {
+      "home": {
+        "title": "Teches",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Tech",
+        "createOrEditLabel": "Genera o modifica un Tech",
+        "notFound": "No Teches found"
+      },
+      "created": "&Egrave; stato generato un nuovo Tech con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Tech identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Tech con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Tech {{ id }}?"
+      },
+      "detail": {
+        "title": "Tech"
+      },
+      "id": "ID",
+      "name": "Name",
+      "techType": "Tech Type",
+      "description": "Description",
+      "createdAt": "Created At",
+      "modifiedAt": "Modified At",
+      "user": "User",
+      "application": "Application"
+    }
+  }
+}
